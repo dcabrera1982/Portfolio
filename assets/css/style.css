@@ -35,7 +35,7 @@ body {
   h3 {
     font-family: Georgia, Times, "Times New Roman", serif;
     font-weight: 700;
-    color: #4aaaa5;
+    color: purple;
   }
   
   h1 {
@@ -74,7 +74,7 @@ body {
     color: #ffffff;
     text-align: center;
     text-decoration: none;
-    background: #4aaaa5;
+    background: purple;
   }
   
   nav {
@@ -88,6 +88,7 @@ body {
     margin-left: 15px;
     line-height: 18px;
     color: #999;
+    text-shadow: 1px 1px 2px black, 0 0 25px purple, 0 0 5px darkmagenta;
     text-decoration: none;
     border-left: 1px solid #efefef;
   }
@@ -106,7 +107,7 @@ body {
     color: #cccccc;
     text-align: center;
     background: #666666;
-    border-top: 8px solid #4aaaa5;
+    border-top: 8px solid purple;
     height: 50px;
   }
   
@@ -164,7 +165,7 @@ body {
     line-height: 30px;
     color: #ffffff;
     text-align: center;
-    background: #4aaaa5;
+    background: purple;
     border-bottom: 0;
   }
   
@@ -174,6 +175,7 @@ body {
     height: auto;
     margin-top: 10px;
     margin-right: 25px;
+    border-radius: 20%;
   }
   
   /* contact page */
@@ -212,7 +214,7 @@ body {
     font-size: 18px;
     color: #ffffff;
     cursor: pointer;
-    background: #4aaaa5;
+    background: purple;
     border: 0 none;
   }
 
