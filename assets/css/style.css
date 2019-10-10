@@ -140,14 +140,14 @@ body {
   .work {
     position: relative;
     float: left;
-    width: 274px;
-    margin: 20px 0 25px;
+    width: 30%;
+    margin: 20px 10px 25px;
     overflow: auto;
   }
   
-  .work:nth-child(even) {
+  /* .work:nth-child(even) {
     margin-right: 40px;
-  }
+  } */
   
   .work img {
     width: 100%;
